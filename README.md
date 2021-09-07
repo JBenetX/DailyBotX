@@ -8,7 +8,7 @@ DailyBotX is a team-6 discord bot for manage the server.
 
 # Installation
 
-This bot runs on [node.js](https://nodejs.org). You will need at least node 12.
+This bot runs on [node.js](https://nodejs.org). You will need at least node 16.9.0.
 
 ## Windows
 
